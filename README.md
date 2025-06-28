@@ -47,7 +47,7 @@
 ---
 
 ## 📚 Referencias
-*(Incorpore aquí solo las fuentes que realmente haya consultado, en formato APA 7. Mínimo 2 referencias.)*
+*Referencias como:*
 
-> Ejemplo:  
-> Siemens, G. (2005). *Connectivism: A learning theory for the digital age*. International Journal of Instructional Technology and Distance Learning, 2(1), 3-10.
+> Almonte, M. G. (2023). Las 5 mejores plataformas (LMS) de e-learning. AprendizajeEnRed. Recuperado de https://aprendizajeenred.es/5-mejores-plataformas-lms-elearning/   
+> Vorecol. (2024). Comparativa de plataformas LMS: ¿Cuál ofrece las mejores herramientas de personalización para el aprendizaje? Vorecol. Recuperado de https://vorecol.com/es/articulos/articulo-comparativa-de-las-principales-plataformas-de-lms-pros-y-contras-para-diferentes-sectores-189343 
