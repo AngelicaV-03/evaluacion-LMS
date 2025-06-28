@@ -50,4 +50,4 @@
 *Referencias como:*
 
 > Almonte, M. G. (2023). Las 5 mejores plataformas (LMS) de e-learning. AprendizajeEnRed. Recuperado de https://aprendizajeenred.es/5-mejores-plataformas-lms-elearning/   
-> Vorecol. (2024). Comparativa de plataformas LMS: ¿Cuál ofrece las mejores herramientas de personalización para el aprendizaje? Vorecol. Recuperado de https://vorecol.com/es/articulos/articulo-comparativa-de-las-principales-plataformas-de-lms-pros-y-contras-para-diferentes-sectores-189343 
+> Vorecol. (2024). Comparativa de plataformas LMS: ¿Cuál ofrece las mejores herramientas de personalización para el aprendizaje? Vorecol. Recuperado de https://vorecol.com/es/articulos/articulo-comparativa-de-las-principales-plataformas-de-lms-pros-y-contras-para-diferentes-sectores-189343  
